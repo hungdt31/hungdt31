@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone
 
 <!--
 **hungdt31/hungdt31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+- 🔭 I’m currently working on Ho Chi Minh University of Technology
+- 🌱 I’m currently learning Web Development.
+- 📫 How to reach me: ...
+> Facebook: [Đoàn Trí Hùng](https://www.facebook.com/profile.php?id=100026377400074)
