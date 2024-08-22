@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Ho Chi Minh University of Technology
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me:
-> Facebook: [Đoàn Trí Hùng](https://www.facebook.com/profile.php?id=100026377400074)
+
+|||
+|--|--|
+|Social |[Facebook](https://www.facebook.com/profile.php?id=100026377400074), [Linkedin](https://www.linkedin.com/in/%C4%91o%C3%A0n-tr%C3%AD-h%C3%B9ng-7ba428269/), [Instagram](https://www.instagram.com/doantri.hung/)|
