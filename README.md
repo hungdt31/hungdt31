@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **koikoi@gmail.com**
+- 📫 How to reach me **koikoidth12@gmail.com**
 
 - ⚡ Fun fact **I love playing volleyball**
 
