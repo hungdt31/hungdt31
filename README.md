@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doan Tri Hung</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hungdt31" alt="hungdt31" /></a> </p>
-
 - 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **Ho Chi Minh University of Technology**
